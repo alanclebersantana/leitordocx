@@ -1,6 +1,6 @@
 // Leitor DOCX — service worker (funciona 100% offline depois da 1ª abertura)
 // Ao publicar uma versão nova do app, troque o número abaixo.
-const VERSAO = 'leitor-docx-v1';
+const VERSAO = 'leitor-docx-v2';
 const ARQUIVOS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 const CACHE_COMPARTILHADO = 'ld-compartilhado';
 
